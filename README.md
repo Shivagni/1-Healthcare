@@ -24,7 +24,11 @@ chol	Serum cholesterol in mg/dl
 
 fbs	Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
 
-restecg	Resting electrocardiographic results
+restecg	Resting electrocardiographic results =>
+
+ 0 = 'normal'
+ 1 = 'abnormal'
+ 2 = 'hyper'
 
 thalach	Maximum heart rate achieved
 
