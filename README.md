@@ -8,7 +8,9 @@ Dataset description:
 Variable	Description
 Age	Age in years
 Sex	1 = male; 0 = female
+
 cp|	Chest pain type
+
 trestbps	Resting blood pressure (in mm Hg on admission to the hospital)
 chol	Serum cholesterol in mg/dl
 fbs	Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
