@@ -13,10 +13,10 @@ Sex	1 = male; 0 = female
 
 cp	Chest pain type => 
 
-# 0 - asymptomatic
-# 1 - atypical angina
-# 2 - non-anginal pain
-# 3 - typical angina
+ 0 - asymptomatic
+ 1 - atypical angina
+ 2 - non-anginal pain
+ 3 - typical angina
 
 trestbps	Resting blood pressure (in mm Hg on admission to the hospital)
 
